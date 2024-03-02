@@ -1,1 +1,3 @@
 new row in 1.tx file
+
+File edited in lab 6
